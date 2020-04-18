@@ -1,0 +1,43 @@
+{
+  "name": "gb-sprites-tile-creator",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Stencil App Starter",
+  "scripts": {
+    "build": "stencil build",
+    "eslint": "eslint  -f html -o 'reports/eslint.report.html' --ext '.ts' --ext '.tsx' ./src --fix",
+    "ci:eslint": "eslint --ext '.ts' --ext '.tsx' ./src",
+    "dev": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --coverage",
+    "test:e2e": "stencil test --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@stencil/core": "^1.8.8",
+    "@stencil/eslint-plugin": "^0.2.1",
+    "@stencil/router": "^1.0.1",
+    "@types/jest": "24.0.25",
+    "@types/puppeteer": "1.20.4",
+    "@typescript-eslint/eslint-plugin": "^2.21.0",
+    "@typescript-eslint/parser": "^2.21.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-stencil": "0.0.1",
+    "eslint-plugin-typescript": "^0.14.0",
+    "jest": "24.9.0",
+    "jest-cli": "24.9.0",
+    "prettier": "^1.19.1",
+    "prettier-eslint": "^9.0.1",
+    "prettier-eslint-cli": "^5.0.0",
+    "prettier-stylelint": "^0.4.2",
+    "puppeteer": "1.20.0",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

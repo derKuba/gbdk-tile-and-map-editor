@@ -1,0 +1,27 @@
+:host {
+  display: block;
+}
+
+.canvas-matrix-field-old {
+  display: grid;
+  grid-template-columns: repeat(8, 62px);
+  grid-gap: 0px;
+  border: 1px solid black;
+  border-bottom: 0;
+  width: 495px;
+}
+
+.canvas-matrix-field{
+  display: flex;
+  border: 1px solid black;
+  flex-direction: column;
+}
+
+.matrixRow {
+  display: inline-flex;
+}
+
+.matrixRow span {
+  font-size: 12px;
+  margin-left: 3px;
+}

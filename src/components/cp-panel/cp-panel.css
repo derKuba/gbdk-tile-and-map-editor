@@ -1,0 +1,25 @@
+:host {
+  display: flex;
+  justify-content: space-between;
+  width: 160px;
+  margin-left: 50px;
+  margin-top: 17px;
+}
+
+.box {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: grey;
+  padding: 5px  5px 1px 5px;
+  margin-left: 11px;
+}
+
+.cp-icon {
+  width: 20px;
+  height: 20px;
+}
+
+
+.box:last-of-type {
+  margin: 0 26px 0 0;
+}

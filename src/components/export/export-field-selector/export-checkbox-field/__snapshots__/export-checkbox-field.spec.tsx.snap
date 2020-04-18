@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-export-checkbox-field matches snapshot 1`] = `
+<mvjp-export-checkbox-field>
+  <div class="active field-box">
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+    <div class="matrixRow">
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+      <div class="field gb-white"></div>
+    </div>
+  </div>
+</mvjp-export-checkbox-field>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-export-button matches snapshot 1`] = `
+<mvjp-export-button>
+  <mock:shadow-root>
+    <button class="export-button">
+      Export
+    </button>
+  </mock:shadow-root>
+</mvjp-export-button>
+`;

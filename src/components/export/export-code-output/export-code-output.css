@@ -1,0 +1,62 @@
+
+.codeblock {
+  background-color: #2d2d2d;
+  color: white;
+  padding: 15px;
+}
+
+.un{
+  color: #F012BE;
+  font-style: italic;
+}
+
+.char{
+  color: #F012BE;
+  font-style: italic;
+}
+
+.clazz{
+  color: #3D9970;
+}
+
+.arr{
+  color: white;
+}
+
+
+.intro {
+  display: block;
+  color: #c0c0c0;
+  font-size: 12px;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.code {
+  margin: 20px 0 0 20px;
+}
+
+.buttonLine {
+  display:flex;
+  justify-content: space-between;
+}
+
+button {
+
+  border: none;
+  
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button.primary {
+  background-color: #4CAF50;
+  color: white;
+}
+
+button.secondary {
+  background-color: #c0c0c0;
+  color: black;
+}

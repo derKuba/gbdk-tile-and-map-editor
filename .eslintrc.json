@@ -1,0 +1,82 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "sourceType": "module"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "plugin:@stencil/recommended",
+    "plugin:react/recommended"
+  ],
+  "env": {
+    "jest": true,
+    "jasmine": true,
+    "browser": true
+  },
+  "plugins": [
+    "jsx",
+    "prettier",
+    "stencil",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "no-unused-vars": 0,
+    "prettier/prettier": "error",
+    "react/no-unknown-property": 0,
+    "react/display-name": "off",
+    "jsx/uses-factory": [
+      1,
+      {
+        "pragma": "h"
+      }
+    ],
+    "max-params": [
+      "error",
+      3
+    ],
+    "max-lines-per-function": [
+      "error",
+      {
+        "max": 88,
+        "skipBlankLines": true,
+        "skipComments": true
+      }
+    ],
+    "max-lines": [
+      "error",
+      {
+        "max": 150,
+        "skipBlankLines": true,
+        "skipComments": true
+      }
+    ],
+    "no-implicit-globals": 2,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-no-bind": 0
+  },
+  "overrides": [
+    {
+      "files": [
+        "**/**/*.spec.tsx",
+        "**/**/*.spec.ts"
+      ],
+      "rules": {
+        "max-lines-per-function": [
+          "off"
+        ]
+      }
+    }
+  ],
+  "globals": {
+    "Intl": "readonly",
+    "fetch": "writable",
+    "Promise": "readonly",
+    "global": "writeable"
+  }
+}

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-settings matches snapshot 1`] = `
+<mvjp-settings-ui>
+  <mock:shadow-root>
+    <img alt="settings icon" class="settingsIcon" src="./assets/icon/freepik_repair.png">
+    <div class="settingsForm">
+      <h2>
+        Settings
+      </h2>
+      <div class="formLine">
+        <label>
+          Width:
+          <input max="99" min="1" name="width" type="number" value="8">
+        </label>
+        <span>
+          x
+        </span>
+        <label>
+          Height:
+          <input max="99" min="1" name="height" type="number" value="8">
+        </label>
+      </div>
+      <div class="formLine">
+        <label>
+          Number of Tiles:
+          <input max="99" min="1" name="spriteAmount" type="number" value="12">
+        </label>
+      </div>
+      <div class="formLine">
+        <label>
+          Grid:
+          <input name="grid" type="checkbox" value="isGridVisible">
+        </label>
+        <label>
+          Numbers:
+          <input name="numbers" type="checkbox" value="isFieldNumberVisible">
+        </label>
+      </div>
+    </div>
+  </mock:shadow-root>
+</mvjp-settings-ui>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-export-field-selector matches snapshot 1`] = `
+<mvjp-export-field-selector>
+  <div class="fields">
+    <mvjp-export-checkbox-field isactive="" position="0"></mvjp-export-checkbox-field>
+  </div>
+  <button>
+    Export
+  </button>
+</mvjp-export-field-selector>
+`;

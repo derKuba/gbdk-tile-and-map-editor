@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-color-chooser matches snapshot 1`] = `
+<mvjp-canvas-matrix-tile>
+  <!---->
+  <div class="canvas-matrix-tile gb-white" data-pos="{&quot;x&quot;:0,&quot;y&quot;:0}">
+    here a children
+  </div>
+</mvjp-canvas-matrix-tile>
+`;

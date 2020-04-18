@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-sprite-number-switcher-tile matches snapshot 1`] = `
+<mvjp-sprite-number-switcher-tile>
+  <div class="sprite-number-switcher-tile">
+    <span>
+      0
+    </span>
+  </div>
+</mvjp-sprite-number-switcher-tile>
+`;

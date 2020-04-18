@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-sprite-number-switcher matches snapshot 1`] = `
+<mvjp-sprite-number-switcher choosensprite="0">
+  <mock:shadow-root>
+    <mvjp-sprite-number-switcher-tile index="0"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="1"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="2"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="3"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="4"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="5"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="6"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="7"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="8"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="9"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="10"></mvjp-sprite-number-switcher-tile>
+    <mvjp-sprite-number-switcher-tile index="11"></mvjp-sprite-number-switcher-tile>
+  </mock:shadow-root>
+</mvjp-sprite-number-switcher>
+`;

@@ -1,0 +1,17 @@
+.sprite-number-switcher-tile {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  display: flex;
+
+}
+
+.sprite-number-switcher-tile  > span {
+  align-self: center;
+  margin: 0 auto;
+}
+
+.active {
+  background-color: #33ccff;
+
+}

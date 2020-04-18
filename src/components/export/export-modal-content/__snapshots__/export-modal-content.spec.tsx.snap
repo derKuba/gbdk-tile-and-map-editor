@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-export-modal-content matches snapshot 1`] = `
+<mvjp-export-modal-content>
+  <mock:shadow-root>
+    <mvjp-export-field-selector></mvjp-export-field-selector>
+  </mock:shadow-root>
+</mvjp-export-modal-content>
+`;
+
+exports[`mvjp-export-modal-content matches snapshot 2`] = `
+<mvjp-export-modal-content>
+  <mock:shadow-root>
+    <mvjp-export-code-output></mvjp-export-code-output>
+  </mock:shadow-root>
+</mvjp-export-modal-content>
+`;

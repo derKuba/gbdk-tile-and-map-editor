@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-preview matches snapshot 1`] = `
+<mvjp-preview>
+  <mock:shadow-root>
+    <div class="preview-box small">
+      <div class="matrixRow">
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-grey preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+      <div class="matrixRow">
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+        <div class="gb-white preview-tile small"></div>
+      </div>
+    </div>
+  </mock:shadow-root>
+</mvjp-preview>
+`;

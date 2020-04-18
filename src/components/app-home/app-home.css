@@ -1,0 +1,26 @@
+.content {
+  padding: 25px;
+}
+
+.content .center{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.paint-field {
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.tool-box{
+  margin-top: -8px;
+}
+
+.work-panel {
+  display: flex;
+  justify-content: center;
+  margin-left: -295px;
+}

@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-position-setting matches snapshot 1`] = `
+<mvjp-position-setting>
+  <mock:shadow-root>
+    <div class="line">
+      <div class="box icon-alignment">
+        <img alt="horizontal flip icon" class="paint-setting-icon" src="./assets/icon/freepik_h_flip.png" title="Flip Matrix horizontally">
+      </div>
+      <div class="icon-alignment v-pad">
+        <img alt="arrow up icon" class="arrow up" src="./assets/icon/freepik_play.png" title="Move whole Matrix up">
+      </div>
+      <div class="box icon-alignment">
+        <img alt="flip vertically icon" class="paint-setting-icon" src="./assets/icon/freepik_v_flip.png" title="Flip Matrix vertically">
+      </div>
+    </div>
+    <div class="line">
+      <div class="h-pad icon-alignment">
+        <img alt="arrow left icon" class="arrow left" src="./assets/icon/freepik_play.png" title="Move whole Matrix left">
+      </div>
+      <div class="center"></div>
+      <div class="h-pad icon-alignment">
+        <img alt="arrow right icon" class="arrow right" src="./assets/icon/freepik_play.png" title="Move whole Matrix right">
+      </div>
+    </div>
+    <div class="line">
+      <div class="box icon-alignment">
+        <img alt="arrow turn around icon" class="paint-setting-icon" src="./assets/icon/freepik_reload.png" title="Turn matrix counter clockwise">
+      </div>
+      <div class="icon-alignment v-pad">
+        <img alt="arrow down icon" class="arrow down" src="./assets/icon/freepik_play.png" title="Move whole Matrix down">
+      </div>
+      <div class="box icon-alignment">
+        <img alt="arrow trash icon" class="paint-setting-icon" src="./assets/icon/freepik_trash.png" title="Empty Matrix">
+      </div>
+    </div>
+  </mock:shadow-root>
+</mvjp-position-setting>
+`;

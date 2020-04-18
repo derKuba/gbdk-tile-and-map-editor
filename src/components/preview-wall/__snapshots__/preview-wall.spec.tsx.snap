@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-preview-wall matches snapshot 1`] = `
+<mvjp-preview-wall>
+  <mock:shadow-root>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+    <mvjp-preview size="s" standalone=""></mvjp-preview>
+  </mock:shadow-root>
+</mvjp-preview-wall>
+`;

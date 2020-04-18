@@ -1,0 +1,56 @@
+:host {
+  display: inline-flex;
+}
+
+.preview-box {
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+
+.preview-box.standalone {
+  margin: 0;
+  border: 0;
+
+}
+
+.preview-box.small {
+  margin-top: -8px;
+  display: inline-flex;
+}
+
+.matrixRow {
+  display: inline-flex;
+}
+
+.preview-tile.large {
+  width: 18px;
+  height: 20px;
+}
+
+.preview-tile.small {
+  width: 5px;
+  height: 5px;
+}
+
+.gb-green {
+  background-color: #6b790e;
+}
+
+.gb-grey {
+  background-color: #c5bfbf;
+}
+
+.gb-grey-dark {
+  background-color: #5a5760;
+}
+
+.gb-white {
+  background-color: #fff;
+}
+
+.gb-black {
+  background-color: #000;
+}

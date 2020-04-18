@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-export-code-output matches snapshot 1`] = `
+<mvjp-export-code-output>
+  <div>
+    <h1>
+      Code Output
+    </h1>
+    <div class="codeblock">
+      <div>
+        <span class="intro">
+          // main.c
+          <br>
+        </span>
+        <span class="un">
+          unsigned
+        </span>
+        <span class="char">
+          char
+        </span>
+        <span class="clazz">
+          TileTable
+        </span>
+        <span class="arr">
+          [ ]
+        </span>
+        = {
+        <br>
+        <div class="code">
+          0x00, 0xC0, 0x00, 0xC0, 0x00, 0xC0, 0x00, 0xC0,
+          <br>
+          0x00, 0xC0, 0x00, 0xC0, 0x00, 0xC0, 0x00, 0xE0,
+          <br>
+          0x00, 0x10, 0x00, 0x38, 0x00, 0x28, 0x00, 0x28,
+          <br>
+          0x00, 0x38, 0x00, 0x10, 0x00, 0x08, 0x00, 0x00
+        </div>
+        <br>
+        };
+      </div>
+    </div>
+    <hr>
+    <div class="codeblock">
+      <div>
+        <span class="intro">
+          // main.h
+          <br>
+        </span>
+        <span class="un">
+          #define SpriteBank 0
+        </span>
+        <br>
+        <br>
+        <span class="un">
+          extern unsigned char
+        </span>
+        <span class="clazz">
+          TileTable
+        </span>
+        <span class="arr">
+          [ ]
+        </span>
+        ;
+      </div>
+    </div>
+    <hr>
+    <div class="buttonLine">
+      <button class="secondary">
+        Back
+      </button>
+      <button class="primary">
+        Save as File
+      </button>
+    </div>
+  </div>
+</mvjp-export-code-output>
+`;

@@ -1,0 +1,32 @@
+
+.paint-checkbox {
+  display: flex;
+  margin-left: 20px;
+}
+
+.paint-checkbox label{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.paint-checkbox [type=radio] { 
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+  
+/* IMAGE STYLES */
+.paint-checkbox [type=radio] + img {
+  cursor: pointer;
+}
+  
+/* CHECKED STYLES */
+.paint-checkbox [type=radio]:checked + img {
+  outline: 2px solid #33ccff;
+}
+
+.paint-checkbox .icon {
+  width: 40px;
+  height: 40px;
+}

@@ -1,0 +1,33 @@
+.gb-green {
+  background-color: #6b790e;
+}
+
+.gb-grey {
+  background-color: #c5bfbf;
+}
+
+.gb-grey-dark {
+  background-color: #5a5760;
+}
+
+.gb-white {
+  background-color: #fff;
+}
+
+.gb-black {
+  background-color: #000;
+}
+
+.canvas-matrix-tile {
+  width: 50px;
+  height: 50px;
+
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.grid-off {
+  border: 0;
+  width: 51px;
+  height: 51px;
+}

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-cp-panel matches snapshot 1`] = `
+<mvjp-cp-panel>
+  <mock:shadow-root>
+    <div class="box icon-alignment">
+      <img alt="arrow turn around icon" class="cp-icon" src="./assets/icon/freepik_document.png" title="Copy Matrix">
+    </div>
+    <div class="box icon-alignment">
+      <img alt="arrow trash icon" class="cp-icon" src="./assets/icon/freepik_clipboard.png" title="Paste">
+    </div>
+  </mock:shadow-root>
+</mvjp-cp-panel>
+`;

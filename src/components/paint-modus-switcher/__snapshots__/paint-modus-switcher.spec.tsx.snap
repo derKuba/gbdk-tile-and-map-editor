@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-paint-modus-switcher matches snapshot 1`] = `
+<mvjp-paint-modus-switcher>
+  <mock:shadow-root>
+    <div class="paint-checkbox">
+      <label>
+        <input checked="" name="brush" type="radio" value="0">
+        <img alt="brush icon" class="icon" src="./assets/icon/freepik_paintbrush.png">
+      </label>
+      <label>
+        <input name="bucket" type="radio" value="1">
+        <img alt="bucket icon" class="icon" src="./assets/icon/freepik_paint_bucket.png">
+      </label>
+    </div>
+  </mock:shadow-root>
+</mvjp-paint-modus-switcher>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mvjp-color-chooser matches snapshot 1`] = `
+<mvjp-color-chooser>
+  <mock:shadow-root>
+    <div class="color-chooser">
+      <mvjp-color-chooser-field color="white" isactive=""></mvjp-color-chooser-field>
+      <mvjp-color-chooser-field color="grey"></mvjp-color-chooser-field>
+      <mvjp-color-chooser-field color="grey-dark"></mvjp-color-chooser-field>
+      <mvjp-color-chooser-field color="black"></mvjp-color-chooser-field>
+    </div>
+  </mock:shadow-root>
+</mvjp-color-chooser>
+`;

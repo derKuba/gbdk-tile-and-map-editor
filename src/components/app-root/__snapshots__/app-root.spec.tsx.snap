@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app-root matches snapshot 1`] = `
+<app-root>
+  <mock:shadow-root>
+    <div>
+      <header class="gb-purple">
+        <h1>
+          GB Sprite Tile Creator
+        </h1>
+      </header>
+      <main>
+        <stencil-router>
+          <stencil-route-switch scrolltopoffset="0">
+            <stencil-route component="app-home" exact="" url="/"></stencil-route>
+            <stencil-route component="app-profile" url="/profile/:name"></stencil-route>
+          </stencil-route-switch>
+        </stencil-router>
+      </main>
+      <div class="disclaimer">
+        Icons made by
+        <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
+          Freepik
+        </a>
+        from
+        <a href="https://www.flaticon.com/" title="Flaticon">
+          www.flaticon.com
+        </a>
+      </div>
+    </div>
+  </mock:shadow-root>
+</app-root>
+`;

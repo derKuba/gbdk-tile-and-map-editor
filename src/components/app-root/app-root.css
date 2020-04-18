@@ -1,0 +1,39 @@
+header {
+  color: white;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+h1 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  padding: 0 12px;
+}
+
+
+.gb-green {
+  background-color: #6b790e;
+}
+
+.gb-grey {
+  background-color: #c5bfbf;
+}
+
+.gb-dark-grey {
+  background-color: #5a5760;
+}
+
+.gb-purple {
+  background-color: #a52059;
+}
+
+
+.disclaimer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 12px;
+}
