@@ -12,7 +12,7 @@ export const config: Config = {
       // comment the following line to disable service workers in production
       serviceWorker: null,
       dir: 'docs',
-      baseUrl: 'https://derkuba.github.io/gbdk-tile-and-map-editor/'
+      baseUrl: './'
     }
   ],
   testing: {
