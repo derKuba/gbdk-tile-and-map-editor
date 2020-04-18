@@ -124,7 +124,6 @@ export class AppRoot {
                         <stencil-router>
                             <stencil-route-switch scrollTopOffset={0}>
                                 <stencil-route url="/" component="app-home" exact={true} />
-                                <stencil-route url="/docs" component="app-home" />
                                 <stencil-route url="/profile/:name" component="app-profile" />
                             </stencil-route-switch>
                         </stencil-router>
