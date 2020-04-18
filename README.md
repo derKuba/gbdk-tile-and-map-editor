@@ -5,30 +5,30 @@ http://www.devrs.com/gb/hmgd/gbtd.html
 # For Development
 
 ## Install
-'''
+```javascript
 npm install
-'''
+```
 
 ### Start Dev Server
 
-'''
+```javascript
 npm run dev
-'''
+```
 
 ### Run Test or Eslint
-'''
+```javascript
 npm run test
 npm run eslint
-'''
+```
 
 ### Build Package
-'''
+```javascript
 npm run build
-'''
+```
 
 # Special Thanks To
 - Harry Mulder
-- Marcel Vester
-- Marcel's Friend who cracked the C-Output
+- https://github.com/derMarcel98
+- https://github.com/Moritz-x64
 
 
